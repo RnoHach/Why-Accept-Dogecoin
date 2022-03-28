@@ -1,6 +1,6 @@
 # Why-Accept-Dogecoin
 The goal of this project is to create a platform geared towards the local/small businesses owners in mind, as well as online businesses and charities. The idea is to list the benefits for them to accepting Dogecoin in a easy to understand and eye catching format. 
-We want to keep this VERY simple, yet sufficiently informative. Instead of simply asking "Can I pay with Dogecoin?" and leaving the employee wondering what to answer, this pamphlet's goal is to create an opportunity for the Business Owners to be able to learn more about how they can benefit from using Dogecoin at their own time of convenience and be able to find out more or reach back for support in case they are interested.
+We want to keep this VERY simple, yet sufficiently informative. Instead of simply asking "Can I pay with Dogecoin?" and leaving the employee wondering what to answer, this pamphlet's goal is to arm you with a tool you can leave behind. This way business owners will have the option to learn more about how they can benefit from using Dogecoin at a time of their convenience, as well as have a way to reach back with questions in case they are interested.
 It would be great to pair this pamphlet with a window sticker that says something like "Dogecoin Accpeted Here", and definitely with a Much Wow Shiba Inu Dog on it. :-)
 
 Vision - Three main steps:
