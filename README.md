@@ -5,8 +5,8 @@ It would be great to pair this pamphlet with a window sticker that says somethin
 
 Vision - Three main steps:
 
-1. Create a "At a first glance" flyer/brochure that briefly illustrates in what ways it would be beneficial for local businesses to start accepting Dogecoin. Add endorcements, contact info (for help) and links to resources. A QR Code could lead to the website with step by step instruction. 
+1. Create a "At a first glance" flyer/brochure that briefly illustrates in what ways it would be beneficial for local businesses to start accepting Dogecoin. Add endorcements, contact info (for help) and links to resources. A QR Code could lead to the website with step by step instruction. It is crucial that this product has a clean and attractive graphic desing (mintydoge?)
 
-2. Create a more detailed pamphlet with more detailed information, resources and instructions on how to set up a wallet and start being able to send/receive Dogecoin. Link to the website.
+2. Create a more detailed pamphlet with more detailed information, resources and instructions on how to set up a wallet and start being able to send/receive Dogecoin. Link to the website. Again, it is of essence to create an attractive looking product. 
 
 3. Creating a website with information about different aspects of dogecoin, various wallet options, security tips, and (possibly most importantly) a step by step guide to getting started with a dogecoin wallet or a dogecoin payment system (I'd love to be able to set online businesses with a version of Tesla's merch store Doge Payment Engine). Priority on wallets with the lowest transaction fee, fastest processing times (showing the txn with pending status would be sufficent I believe for a transaction to be considered complete) and best security possible. 
