@@ -11,4 +11,4 @@ Create a "At a first glance" flyer/brochure that briefly illustrates in what way
 Create a more detailed pamphlet with more detailed information, resources and instructions on how to set up a wallet and start being able to send/receive Dogecoin. Link to the website.
 
 
-Creating the website
+Creating a website with information about different aspects of dogecoin, various wallet options, security tips, and (possibly most importantly) a step by step guide to getting started with a dogecoin wallet or a dogecoin payment system (I'd love to be able to set online businesses with a version of Tesla's merch store Doge Payment Engine). Priority on wallets with the lowest transaction fee, fastest processing times (showing the txn with pending status would be sufficent I believe for a transaction to be considered complete) and best security possible. 
