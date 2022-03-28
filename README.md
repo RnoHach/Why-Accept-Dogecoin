@@ -1,10 +1,9 @@
 # Why-Accept-Dogecoin
-The goal is to create a concise flyer/brochure with local/small businesses owners in mind. The idea is to list the benefits for them to accepting Dogecoin in a easy to understand and eye catching format. 
+The goal of this project is to create a platform geared towards the local/small businesses owners in mind, as well as online businesses and charities. The idea is to list the benefits for them to accepting Dogecoin in a easy to understand and eye catching format. 
 We want to keep this VERY simple, yet sufficiently informative. Instead of simply asking "Can I pay with Dogecoin?" and leaving the employee wondering what to answer, this pamphlet's goal is to create an opportunity for the Business Owners to be able to learn more about how they can benefit from using Dogecoin at their own time of convenience and be able to find out more or reach back for support in case they are interested.
-
 It would be great to pair this pamphlet with a window sticker that says something like "Dogecoin Accpeted Here", and definitely with a Much Wow Shiba Inu Dog on it. :-)
 
-Vision:
+Vision - Three main steps:
 
 1. Create a "At a first glance" flyer/brochure that briefly illustrates in what ways it would be beneficial for local businesses to start accepting Dogecoin. Add endorcements, contact info (for help) and links to resources. A QR Code could lead to the website with step by step instruction. 
 
