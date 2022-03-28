@@ -6,9 +6,9 @@ It would be great to pair this pamphlet with a window sticker that says somethin
 
 Vision:
 
-Create a "At a first glance" brochure that briefly illustrates in what ways it would be beneficial for local businesses to start accepting Dogecoin. 
+Create a "At a first glance" flyer/brochure that briefly illustrates in what ways it would be beneficial for local businesses to start accepting Dogecoin. Add endorcements, contact info (for help) and links to resources. A QR Code could lead to the website with step by step instruction. 
 
-Create a more indepth version that walks you step by step 
+Create a more detailed pamphlet with more detailed information, resources and instructions on how to set up a wallet and start being able to send/receive Dogecoin. Link to the website.
 
 
-Creating or incorporating 
+Creating the website
